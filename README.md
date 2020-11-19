@@ -3,7 +3,6 @@
 
 By [Yiwei Yang](https://github.com/sjtu-course/homework/tree/main/YiweiYang).
 
-为了方便下载，上传的为加密后的压缩包，密码已通过邮件发送给助教。
 
 ## 功能
 
