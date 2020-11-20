@@ -9,7 +9,7 @@ By [Yiwei Yang](https://github.com/sjtu-course/homework/tree/main/YiweiYang).
 - [x] **为四路输入都分配了视频窗口，且支持动态加入和离开**
 - [x] **添加了发送聊天消息的功能，并优化了显示效果**
 - [x] **取消了回车键退出程序的功能，现在回车键可以直接发送聊天框内容**
-- [x] **增加了hw1中记录上次登录信息并在下次登录时自动填写的功能**
+- [x] **增加了[hw1](https://github.com/sjtu-course/homework/tree/main/YiweiYang/hw1/windows)中记录上次登录信息并在下次登录时自动填写的功能**
 
 ## 效果图
 
