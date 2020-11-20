@@ -15,7 +15,7 @@ By [Yiwei Yang](https://github.com/sjtu-course/homework/tree/main/YiweiYang).
 
 ![截图](screenshot.png)
 
-> 使用了两个电脑一台手机，由于电脑没有摄像头所以使用的是两个虚拟摄像头（一个trail视频一个鸡视频）和一个屏幕分享流。
+> 使用了两个电脑一台手机，由于电脑没有摄像头所以使用的是两个虚拟摄像头（一个trial视频一个鸡视频）和一个屏幕分享流。
 
 ### 一些细节
 
