@@ -1,7 +1,7 @@
 # RtcWinDemo
 [SJTU × ByteDance course](https://github.com/sjtu-course/ppt) project. 
 
-By [Yiwei Yang](https://github.com/sjtu-course/homework/tree/main/YiweiYang).
+By [Yang Yiwei](https://github.com/sjtu-course/homework/tree/main/YiweiYang)、Chen Qi、Lai Jingzhi、Yang Zhengyu
 
 两个lib文件很大，clone很慢可以通过网盘下载
 链接：https://pan.baidu.com/s/1VX_Dtgpigv-I11CeCF66hQ 
